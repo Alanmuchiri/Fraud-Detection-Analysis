@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://claude.ai/chat/2860b733-4321-403b-a565-4985fe12ba36
+HostUrl=https://claude.ai/api/organizations/04aa2407-57e8-48f6-be04-414d3b310733/conversations/2860b733-4321-403b-a565-4985fe12ba36/wiggle/download-file?path=%2Fmnt%2Fuser-data%2Foutputs%2Finsurance_fraud_detection.ipynb
